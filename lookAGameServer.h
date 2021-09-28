@@ -1,0 +1,5 @@
+#include "stdafx.h"
+#include "CriticalSection.h"
+#include "Player.h"
+#include "PlayerID.h"
+#include "Character.h"
