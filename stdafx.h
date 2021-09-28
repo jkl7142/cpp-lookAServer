@@ -5,7 +5,9 @@
 
 #pragma once
 
-// #include "targetver.h"
+#include "targetver.h"
+
+#define _WIN32_WINNT 0x0600
 
 #include <stdio.h>
 #include <tchar.h>
@@ -15,3 +17,4 @@
 #include <string>
 #include <list>
 #include <map>
+#include <mutex>
